@@ -10,4 +10,4 @@ This is a simple calculator implemented in JavaScript that handles basic arithme
 - Division
 
 ## Demo
-You can try out the calculator online <a href="mdambi.github.io/Calculator">here</a>.
+You can try out the calculator online <a href="mdambi.github.io/Calculator/">here</a>.
